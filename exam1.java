@@ -4,7 +4,7 @@ public class NumberListImproved {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int[] numbers = new int[5]; // Initial size of the array
+        int[] numbers = new int[5]; 
         int index = 0;
 
         while (true) {
